@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_texturing  --input \"/home/mylo/Desktop/fallen tree/MeshroomCache/Meshing/bf7032205a425755562cd95af45836af452b9a76/densePointCloud.abc\" --imagesFolder \"/home/mylo/Desktop/fallen tree/MeshroomCache/PrepareDenseScene/3925fdb094134938a85ac0074b72ed2b7fa3b04a\" --inputMesh \"/home/mylo/Desktop/fallen tree/MeshroomCache/MeshFiltering/607dbded8cfd85c2795152d962ea9cab522b59b4/mesh.obj\" --textureSide 8192 --downscale 2 --outputTextureFileType png --unwrapMethod Basic --useUDIM True --fillHoles False --padding 5 --multiBandDownscale 4 --multiBandNbContrib 1 5 10 0 --useScore True --bestScoreThreshold 0.1 --angleHardThreshold 90.0 --processColorspace sRGB --correctEV False --forceVisibleByAllVertices False --flipNormals False --visibilityRemappingMethod PullPush --subdivisionTargetRatio 0.8 --verboseLevel info --output \"/home/mylo/Desktop/fallen tree/MeshroomCache/Texturing/6bcee51b480e30e647ca3c5369dcb227d46ae6e7\"",
+    "env": null,
+    "startDateTime": "2021-07-05 11:45:47.862644",
+    "endDateTime": "2021-07-05 11:46:38.739637",
+    "elapsedTime": 50.877037525177,
+    "hostname": "the-matrix",
+    "sessionUid": "84847542-dd79-11eb-969b-655fa88b560d",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:50.877038"
+}
